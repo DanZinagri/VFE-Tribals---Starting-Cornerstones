@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>VFE Tribals - Starting Cornerstones</name>
+	<author>DanZinagri</author>
+	<packageId>DanZinagri.VFETribalsStartingCornerstones</packageId>
+	<supportedVersions>
+		<li>1.6</li>
+		<li>1.7</li>
+	</supportedVersions>
+	<description>Configurable starting cornerstone points.</description>
+	<modDependencies>
+		<li>
+			<packageId>OskarPotocki.VFE.Tribals</packageId>
+			<displayName>Vanilla Factions Expanded - Tribals</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/3079786283</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>OskarPotocki.VFE.Tribals</li>
+	</loadAfter>
+</ModMetaData>

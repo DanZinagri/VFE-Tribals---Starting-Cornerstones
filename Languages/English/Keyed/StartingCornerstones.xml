@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<SCS_StartingPoints>Starting cornerstone points: {0}</SCS_StartingPoints>
+	<SCS_StartingPointsTip>Cornerstone points every new colony starts with. Existing saves are not affected.</SCS_StartingPointsTip>
+	<SCS_GrantSkippedEras>Add points for eras skipped by the starting tech level</SCS_GrantSkippedEras>
+	<SCS_GrantSkippedErasTip>Also grants the points the era advancements up to your starting tech level would have given: 1 for neolithic, 2 for medieval, 3 for industrial, 4 for spacer, 5 for ultra. These are added on top of the starting points.</SCS_GrantSkippedErasTip>
+</LanguageData>
